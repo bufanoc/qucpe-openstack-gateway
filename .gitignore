@@ -1,0 +1,16 @@
+# Local session notes (contains credentials/IPs)
+CLONE-SESSION.md
+*-SESSION.md
+
+# Backups
+*.backup
+*.bak
+
+# Editor files
+*.swp
+*~
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
